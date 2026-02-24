@@ -1,8 +1,3 @@
-"""
-Punto de entrada principal del servidor Flask.
-Registra los Blueprints (controladores) y arranca la aplicación.
-"""
-
 from flask import Flask
 from flask_cors import CORS
 
