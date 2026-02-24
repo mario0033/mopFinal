@@ -40,5 +40,9 @@ INSERT INTO productos (nombre, tipo, marca, descripcion, precio, stock, imagen) 
 ('Hacha Husqvarna X-Cut X162', 'hacha', 'Husqvarna', 'Hacha profesional de talá-intermedia', 69.00, 28, 'hacha_husqvarna_xcut_x162.jpg'),
 ('Maza Stanley FatMax FME-MFM18XB-1', 'maza', 'Stanley', 'Maza profesional para uso forestal con mango de fibra', 79.90, 20, 'maza_stanley_fatmax_fmemfm18xb1.jpg'),
 ('Casco Forestal Husqvarna Technical XR', 'accesorio', 'Husqvarna', 'Casco técnico con protección para tala intensiva', 99.90, 15, 'casco_husqvarna_technical_xr.jpg'),
-('Kit Limpieza Motosierra Stihl Premium', 'accesorio', 'Stihl', 'Kit de limpieza y mantenimiento para motosierra', 39.00, 30, 'kit_limpieza_motosierra_stihl_premium.jpg');
-
+('Kit Limpieza Motosierra Stihl Premium', 'accesorio', 'Stihl', 'Kit de limpieza y mantenimiento para motosierra', 39.00, 30, 'kit_limpieza_motosierra_stihl_premium.jpg'),
+('play 10 pro', 'consola', 'sony', 'play station 10 pro de camuflaje', 600.00, 60, 'play_staton_10_pro.jpg'),
+('nintendo switch', 'consola', 'nintendo', 'nintendo switch', 450.00, 120, 'switch.jpg'),
+('pokemon blanco y negro', 'juego', 'the pokemon company', 'juego de pockemon blanco y negro', 80.00, 10, 'pokemon_blanco_negro.jpg'),
+('call of duty', 'juego', 'activision', 'juego de play COD', 40.00, 120, 'COD.jpg'),
+('GTA VI', 'juego', 'rockstar games', 'juego grand theft auto VI', 120.00, 10, 'GTA_VI.jpg');
